@@ -3,92 +3,92 @@
     {
       "id": 1,
       "title": "Guitar Fundamentals",
-      "slug": "guitar fundamentals",
+      "slug": "guitar-fundamentals",
       "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
       "price": 99.99,
       "instructor": "Sam Altro",
       "isFeatured": true,
-      "image": "/courses/guitar.jpg"
+      "image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&q=80&w=800"
     },
     {
       "id": 2,
       "title": "Advanced Guitar Techniques",
-      "slug": "advanced guitar techniques",
+      "slug": "advanced-guitar-techniques",
       "description": "Master advanced chords, solos, and fingerstyle techniques for guitar.",
       "price": 129.99,
       "instructor": "Liam Carter",
       "isFeatured": false,
-      "image": "/courses/advanced-guitar.jpg"
+      "image": "https://images.unsplash.com/photo-1485278537138-4e8911a13c02?auto=format&fit=crop&q=80&w=800"
     },
     {
       "id": 3,
       "title": "Piano for Beginners",
-      "slug": "piano for beginners",
+      "slug": "piano-for-beginners",
       "description": "Start your piano journey by learning basic keys, scales, and simple songs.",
       "price": 89.99,
       "instructor": "Emily Stone",
       "isFeatured": true,
-      "image": "/courses/piano.jpg"
+      "image": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?auto=format&fit=crop&q=80&w=800"
     },
     {
       "id": 4,
       "title": "Music Theory Essentials",
-      "slug": "music theory essentials",
+      "slug": "music-theory-essentials",
       "description": "Understand notes, scales, chords, and harmony to improve your musical skills.",
       "price": 79.99,
       "instructor": "Daniel Brooks",
       "isFeatured": true,
-      "image": "/courses/music-theory.jpg"
+      "image": "https://images.unsplash.com/photo-1488376739361-ed24c9beb6d0?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 5,
       "title": "Drum Basics",
-      "slug": "drum basics",
+      "slug": "drum-basics",
       "description": "Learn rhythm, timing, and basic drum patterns for beginners.",
       "price": 94.99,
       "instructor": "Chris Jordan",
       "isFeatured": false,
-      "image": "/courses/drums.jpg"
+      "image": "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?auto=format&fit=crop&q=80&w=800"
     },
     {
       "id": 6,
       "title": "Vocal Training 101",
-      "slug": "vocal training 101",
+      "slug": "vocal-training-101",
       "description": "Improve your singing with breathing exercises and vocal techniques.",
       "price": 84.99,
       "instructor": "Sophia Lee",
       "isFeatured": true,
-      "image": "/courses/vocals.jpg"
+      "image": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&q=80&w=800"
     },
     {
       "id": 7,
       "title": "Ukulele for Starters",
-      "slug": "ukulele for starters",
+      "slug": "ukulele-for-starters",
       "description": "Learn easy chords and strumming patterns to play fun songs on ukulele.",
       "price": 69.99,
       "instructor": "Noah Wilson",
       "isFeatured": false,
-      "image": "/courses/ukulele.jpg"
+      "image": "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?auto=format&fit=crop&q=80&w=800"
     },
     {
       "id": 8,
       "title": "Electronic Music Production",
-      "slug": "electronic music production",
+      "slug": "electronic-music-production",
       "description": "Create electronic music using modern DAWs, synths, and mixing techniques.",
       "price": 149.99,
       "instructor": "Ava Martinez",
       "isFeatured": true,
-      "image": "/courses/electronic-music.jpg"
+      "image": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&q=80&w=800"
     },
     {
       "id": 9,
       "title": "Songwriting Masterclass",
-      "slug": "songwriting masterclass",
+      "slug": "songwriting-masterclass",
       "description": "Learn how to write meaningful lyrics and compose memorable melodies.",
       "price": 119.99,
       "instructor": "Ethan Walker",
       "isFeatured": true,
-      "image": "/courses/songwriting.jpg"
+      "image": "https://images.unsplash.com/photo-1579017308347-e53e0d2fc5e9?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ]
 }
