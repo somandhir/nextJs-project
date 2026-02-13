@@ -37,7 +37,7 @@
       "description": "Understand notes, scales, chords, and harmony to improve your musical skills.",
       "price": 79.99,
       "instructor": "Daniel Brooks",
-      "isFeatured": false,
+      "isFeatured": true,
       "image": "/courses/music-theory.jpg"
     },
     {
@@ -87,7 +87,7 @@
       "description": "Learn how to write meaningful lyrics and compose memorable melodies.",
       "price": 119.99,
       "instructor": "Ethan Walker",
-      "isFeatured": false,
+      "isFeatured": true,
       "image": "/courses/songwriting.jpg"
     }
   ]
