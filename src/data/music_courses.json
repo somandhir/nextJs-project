@@ -1,0 +1,94 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "Sam Altro",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Guitar Techniques",
+      "slug": "advanced guitar techniques",
+      "description": "Master advanced chords, solos, and fingerstyle techniques for guitar.",
+      "price": 129.99,
+      "instructor": "Liam Carter",
+      "isFeatured": false,
+      "image": "/courses/advanced-guitar.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Piano for Beginners",
+      "slug": "piano for beginners",
+      "description": "Start your piano journey by learning basic keys, scales, and simple songs.",
+      "price": 89.99,
+      "instructor": "Emily Stone",
+      "isFeatured": true,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Music Theory Essentials",
+      "slug": "music theory essentials",
+      "description": "Understand notes, scales, chords, and harmony to improve your musical skills.",
+      "price": 79.99,
+      "instructor": "Daniel Brooks",
+      "isFeatured": false,
+      "image": "/courses/music-theory.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Drum Basics",
+      "slug": "drum basics",
+      "description": "Learn rhythm, timing, and basic drum patterns for beginners.",
+      "price": 94.99,
+      "instructor": "Chris Jordan",
+      "isFeatured": false,
+      "image": "/courses/drums.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Vocal Training 101",
+      "slug": "vocal training 101",
+      "description": "Improve your singing with breathing exercises and vocal techniques.",
+      "price": 84.99,
+      "instructor": "Sophia Lee",
+      "isFeatured": true,
+      "image": "/courses/vocals.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Ukulele for Starters",
+      "slug": "ukulele for starters",
+      "description": "Learn easy chords and strumming patterns to play fun songs on ukulele.",
+      "price": 69.99,
+      "instructor": "Noah Wilson",
+      "isFeatured": false,
+      "image": "/courses/ukulele.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Electronic Music Production",
+      "slug": "electronic music production",
+      "description": "Create electronic music using modern DAWs, synths, and mixing techniques.",
+      "price": 149.99,
+      "instructor": "Ava Martinez",
+      "isFeatured": true,
+      "image": "/courses/electronic-music.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Songwriting Masterclass",
+      "slug": "songwriting masterclass",
+      "description": "Learn how to write meaningful lyrics and compose memorable melodies.",
+      "price": 119.99,
+      "instructor": "Ethan Walker",
+      "isFeatured": false,
+      "image": "/courses/songwriting.jpg"
+    }
+  ]
+}
